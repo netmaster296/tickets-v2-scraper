@@ -1,0 +1,20 @@
+{
+  "name": "tickets-v2-scraper",
+  "version": "0.1.0",
+  "description": "Fragile Playwright scraper for tickets.bot dashboard transcripts (foundation).",
+  "main": "scraper.js",
+  "type": "commonjs",
+  "scripts": {
+    "auth-setup": "node auth-setup.js",
+    "scrape": "node scraper.js",
+    "postinstall": "npx playwright install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "googleapis": "^135.0.0",
+    "playwright": "^1.43.0"
+  }
+}

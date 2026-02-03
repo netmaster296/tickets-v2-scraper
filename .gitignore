@@ -1,0 +1,9 @@
+node_modules/
+.env
+auth.json
+*.key.json
+*.service-account.json
+transcripts/
+error.png
+/*.log
+coverage/
