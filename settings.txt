@@ -1,0 +1,4 @@
+root: C:\Users\Jack\Documents\workspace\tickets-v2-scraper 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
