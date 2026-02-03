@@ -7,3 +7,7 @@ transcripts/
 error.png
 /*.log
 coverage/
+settings.txt
+PATH.txt
+*.example
+
